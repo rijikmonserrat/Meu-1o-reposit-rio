@@ -3,11 +3,15 @@ Teste de criacão de repositório da disciplina DSL (Desenvolvimento de SL)
 
 # José Monserrat Neto
 
+!! 
+
 * Professor Titular | *Departamento de Ciência da Computação* | **Universidade Federal de Lavras** (UFLA)
 * E-mail: monserrat@ufla.br | Lavras – MG, Brasil
 * Currículo Lattes: http://lattes.cnpq.br/0393591161621663
 
 ## Resumo Profissional
+
+![Foto do Monserrat](monserrat_2014.jpg)
 
 Professor e pesquisador com atuação interdisciplinar nas áreas de Ciência da Computação e Filosofia. Trabalha com temas como Inteligência Artificial, Sistemas Simbólicos, Cognição, Linguagem e Histórica da Tecnologia. Contribui para o pensamento sobre mediação simbólica na organização social e no conhecimento científico.
 
