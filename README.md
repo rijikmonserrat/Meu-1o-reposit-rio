@@ -3,8 +3,6 @@ Teste de criacão de repositório da disciplina DSL (Desenvolvimento de SL)
 
 # José Monserrat Neto
 
-!! 
-
 * Professor Titular | *Departamento de Ciência da Computação* | **Universidade Federal de Lavras** (UFLA)
 * E-mail: monserrat@ufla.br | Lavras – MG, Brasil
 * Currículo Lattes: http://lattes.cnpq.br/0393591161621663
